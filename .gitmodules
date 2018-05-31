@@ -1,0 +1,6 @@
+[submodule "lib/ebm"]
+	path = lib/ebm
+	url = https://github.com/EuroPOND/ebm.git
+[submodule "lib/deformetrica"]
+	path = lib/deformetrica
+	url = https://github.com/EuroPOND/deformetrica.git
