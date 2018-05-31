@@ -7,3 +7,6 @@
 [submodule "lib/pyebm"]
 	path = lib/pyebm
 	url = https://github.com/EuroPOND/pyebm.git
+[submodule "lib/clinica"]
+	path = lib/clinica
+	url = https://github.com/EuroPOND/clinica.git
