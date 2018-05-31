@@ -7,4 +7,4 @@
 | Deformetrica | [gitlab](https://gitlab.icm-institute.org/alexandre_bone/pydeformetrica) <br> [website](http://www.deformetrica.org/) <br > [documentation](https://gitlab.icm-institute.org/alexandre_bone/pydeformetrica/wikis/home)| Yes | Morphometry software. Works with image or mesh data. Can estimate anatomical registrations, regressions, cross-sectional & longitudinal atlases.  |
 | LeasPy | [gitlab](https://gitlab.icm-institute.org/aramislab/LEASPy) | No | Learns the spatiotemporal patterns from longitudinal scalar measurements. |
 | DEM | TBA | No | Differential Equation Model |
-| Clinica | [website](http://clinica.run/) [gitlab](git@gitlab.icm-institute.org:aramislab/clinica.git/) | |
+| Clinica | [website](http://clinica.run/) <br> [gitlab](git@gitlab.icm-institute.org:aramislab/clinica.git/) | Yes | |
