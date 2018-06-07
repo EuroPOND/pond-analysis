@@ -9,5 +9,5 @@
 | Clinica | [gitlab](http://gitlab.icm-institute.org:aramislab/clinica) <br> [website](http://clinica.run/) | Yes | Clinica is a software platform for clinical research studies involving patients with neurological and psychiatric diseases and the acquistion of multimodal data (neuroimaging, clinical and cognitive evaluations, genetics...), most often with longitudinal follow-up. |  |
 | DEM | TBA | No | Differential Equation Model | Scalar biomarker values; longitudinal |
 | SuStaIn | TBA | No | Subtype and Stage Inference | Scalar biomarker values; cross-sectional |
-| DIVE | [github](https://github.com/EuroPOND/dive) (fork of [this](https://github.com/mrazvan22/dive)) | Yes | Vertex Clustering Model | Images; longitudinal |
-| Gaussian process regression model | [github](https://github.com/EuroPOND/GP_progression_model) (forked from [Marco](https://github.com/marcolorenzi/GP_progression_model)) | Yes | Gaussian Processes for temporal analysis of clinical data | Scalar biomarker values; cross-sectional or longitudinal |
+| DIVE | [github](https://github.com/EuroPOND/dive) <br /> (forked from [Raz](https://github.com/mrazvan22/dive)) | Yes | Vertex Clustering Model | Images; longitudinal |
+| Gaussian process regression model | [github](https://github.com/EuroPOND/GP_progression_model) <br /> (forked from [Marco](https://github.com/marcolorenzi/GP_progression_model)) | Yes | Gaussian Processes for temporal analysis of clinical data | Scalar biomarker values; cross-sectional or longitudinal |
