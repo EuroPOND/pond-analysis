@@ -25,7 +25,7 @@ Additional models of interest:
   - SVM, MKL, etc.
   - Point: for comparison of clinical classification (AUC)
 
-## #Model Staging
+## Model Staging
 ### Discussion in Paris
 - Stratified cross-validation. Sets defined by one person, then shared.
   - Probably don't need to balance/stratify, due to TADPOLE numbers
