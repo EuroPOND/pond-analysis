@@ -10,4 +10,4 @@
 | DEM | TBA | No | Differential Equation Model | Scalar biomarker values; longitudinal |
 | SuStaIn | TBA | No | Subtype and Stage Inference | Scalar biomarker values; cross-sectional |
 | DIVE | [github](https://github.com/EuroPOND/dive) (fork of [this](https://github.com/mrazvan22/dive)) | Yes | Vertex Clustering Model | Images; longitudinal |
-| Gaussian process regression model | TBA | No | Gaussian Processes for temporal analysis of clinical data | Scalar biomarker values; cross-sectional or longitudinal |
+| Gaussian process regression model | [github](https://github.com/EuroPOND/GP_progression_model) (forked from [Marco](https://github.com/marcolorenzi/GP_progression_model)) | Yes | Gaussian Processes for temporal analysis of clinical data | Scalar biomarker values; cross-sectional or longitudinal |
