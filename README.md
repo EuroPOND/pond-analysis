@@ -2,19 +2,7 @@
 A repository for comparative analyses across EuroPOND models.
 
 ## Planned analyses
-1. Model staging using [TADPOLE](http://tadpole.grand-challenge.org) data
-
-## Model Staging
-### Discussion in Paris
-- Stratified cross-validation. Sets defined by one person, then shared.
-  - Probably don't need to balance/stratify, due to TADPOLE numbers
-- Evaluation measures:
-  - Appropriate [TADPOLE](http://tadpole.grand-challenge.org) metrics: AUC for clinical classification, too.
-  - (Regression) Correlations between model stages
-  - Hold-out longitudinal consistency:
-    - "Test" data: N (=200?) individuals having 2x2 timepoints (two disease staging opportunities) each
-    - Preferably not those having more than 4, so as not to reduce the data for unsupervised spatiotemporal models (Inserm)
-    - See [python notebook](prep/TADPOLE-Numbers.ipynb) for details
+- [Model Staging](#model-staging) using [TADPOLE](http://tadpole.grand-challenge.org) data
 
 ## EuroPOND models
 |   | Links | Public | Description | Input data type |
@@ -36,3 +24,16 @@ Additional models of interest:
 - Off-the-shelf machine learning classifiers:
   - SVM, MKL, etc.
   - Point: for comparison of clinical classification (AUC)
+
+## # Model Staging
+### Discussion in Paris
+- Stratified cross-validation. Sets defined by one person, then shared.
+  - Probably don't need to balance/stratify, due to TADPOLE numbers
+- Evaluation measures:
+  - Appropriate [TADPOLE](http://tadpole.grand-challenge.org) metrics: AUC for clinical classification, too.
+  - (Regression) Correlations between model stages
+  - Hold-out longitudinal consistency:
+    - "Test" data: N (=200?) individuals having 2x2 timepoints (two disease staging opportunities) each
+    - Preferably not those having more than 4, so as not to reduce the data for unsupervised spatiotemporal models (Inserm)
+    - See [python notebook](prep/TADPOLE-Numbers.ipynb) for details
+
