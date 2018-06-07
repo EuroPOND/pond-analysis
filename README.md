@@ -9,5 +9,5 @@
 | Clinica | [gitlab](http://gitlab.icm-institute.org:aramislab/clinica) <br> [website](http://clinica.run/) | Yes | Clinica is a software platform for clinical research studies involving patients with neurological and psychiatric diseases and the acquistion of multimodal data (neuroimaging, clinical and cognitive evaluations, genetics...), most often with longitudinal follow-up. |  |
 | DEM | TBA | No | Differential Equation Model | Scalar biomarker values; longitudinal |
 | SuStaIn | TBA | No | Subtype and Stage Inference | Scalar biomarker values; cross-sectional |
-| Vertex Clustering Model | TBA | No | Vertex Clustering Model | Images; longitudinal |
+| DIVE | [github](https://github.com/EuroPOND/dive) (fork of [this](https://github.com/mrazvan22/dive)) | No | Vertex Clustering Model | Images; longitudinal |
 | Gaussian process regression model | TBA | No | Gaussian Processes for temporal analysis of clinical data | Scalar biomarker values; cross-sectional or longitudinal |
